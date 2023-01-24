@@ -1,0 +1,78 @@
+h1 {
+    color: rgb(199, 102, 255);
+
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+
+}
+
+body {
+    background-image: url("back.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.patablatit {
+    display: inline-flex;
+    ;
+    background-color: #000000c1;
+    background-size: 5cm;
+    padding: 5px;
+    font-size: 40px;
+
+
+}
+
+.patabla {
+    display: inline-flex;
+    ;
+    background-color: #00000086;
+    background-size: 5cm;
+
+    padding: 5px;
+    font-size: 25px;
+
+
+}
+
+.paboton {
+    display: inline-flex;
+    ;
+    background-color: #00000086;
+    
+    background-size: 5cm;
+    
+    padding: 5px;
+    font-size: 50px;
+    block-size: 50px;
+    border: #ff00cc;
+    border-width: 10px;
+    border-style: double;
+    border-radius: 10px;
+
+
+}
+
+.palista {
+
+    background-color: #00000099;
+    background-size: 5cm;
+    font-style: italic;
+
+    font-size: 25px;
+
+
+}
+
+.page-holder {
+    min-height: 10vh;
+
+  }
+  
+  .bg-cover {
+    background-size: auto;
+    
+  }
